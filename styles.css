@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .before-element{
 	font-size: 23px;
-	color:red;
+	color:rgb(255,0,0);
 }
 .after-element{
 	font-size: 23px;
-	color:red;
+	color:rgb(255,0,0);
 }
