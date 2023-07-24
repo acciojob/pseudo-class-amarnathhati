@@ -1,9 +1,13 @@
 /*  your css code here. If applicable */
 
-.element{
-	font-size: 23px;
-	color:rgb(255,0,0);
+/* Increase text size for the span with class "content" */
+.main-container .content {
+  font-size: 23px;
+  color: rgb(255, 0, 0); /* Red color */
 }
-.content{
-	color:rgb(0,0,0);
+
+/* Style the ::before pseudo-element for the div element */
+.main-container div::before {
+  content: "Before Element";
+  color: rgb(255, 0, 0); /* Red color */
 }
