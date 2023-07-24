@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
-.before-element{
-	font-size: 23px;
-	color:rgb(0,0,0);
-}
-.after-element{
+
+.element{
 	font-size: 23px;
 	color:rgb(0,0,0);
 }
